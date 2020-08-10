@@ -1,0 +1,15 @@
+{
+    "name": "samue/chat",
+    "authors": [{
+        "name": "Samuelson",
+        "email": "samuelsonma@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "src"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "^0.4"
+    }
+}
